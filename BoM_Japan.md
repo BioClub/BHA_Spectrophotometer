@@ -9,7 +9,7 @@ For this device you need an Arduino or equivalent microprocessor.
 |No|Amount|Description|Supplier JP|Cost (Yen)|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|5mm 白 LED|[Akizuki](http://akizukidenshi.com/catalog/g/gI-11654/)|20|
-|2|1|~~TSL1406R Photo diode array~~ →リニア光学アレイ TSL1401CL（未検証）| ~~[Mouser](http://nl.mouser.com/ProductDetail/ams/TSL1406R/?qs=owm69ILshgasXOGrAzFz%252bQ%3D%3D), [DigiKey](http://www.digikey.nl/product-detail/en/TSL1406R/TSL1406-R-ND/3095064)~~　[Marutsu](https://www.marutsu.co.jp/pc/i/16218094/#item_description)|~~22.57~~ 1200|
+|2|1|~~TSL1406R Photo diode array~~ →リニア光学アレイ TSL1401CL（未検証）or [Linear CCD module](https://hackaday.io/project/9829-linear-ccd-module)| ~~[Mouser](http://nl.mouser.com/ProductDetail/ams/TSL1406R/?qs=owm69ILshgasXOGrAzFz%252bQ%3D%3D), [DigiKey](http://www.digikey.nl/product-detail/en/TSL1406R/TSL1406-R-ND/3095064)~~　[Marutsu](https://www.marutsu.co.jp/pc/i/16218094/#item_description)|~~22.57~~ 1200|
 |3|1|回折格子シート 1000本/mm |[Amazon](https://www.amazon.co.jp/%E5%9B%9E%E6%8A%98%E6%A0%BC%E5%AD%90%E3%82%B7%E3%83%BC%E3%83%88-1000%E6%9C%AC-mm-%E7%9B%B4%E7%B7%9A%E7%8A%B6-1%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88%EF%BC%8830cm%EF%BC%89/dp/B01GPX7HII/ref=sr_1_1?ie=UTF8&qid=1521456061&sr=8-1&keywords=%E5%9B%9E%E6%8A%98%E6%A0%BC%E5%AD%90%E3%82%B7%E3%83%BC%E3%83%88+1000%E6%9C%AC%2F), [Carolina](http://www.carolina.com/physical-science-light-and-optics/diffraction-grating/755230.pr?catId=&mCat=&sCat=&ssCat=&question=diffraction+grating)|1290|
 |4|1|100 uF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-10271/)|10|
 |5|4|	220Ω 抵抗|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25221/)|100|
